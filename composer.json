@@ -1,0 +1,21 @@
+{
+    "name": "derekisbusy/yii2-fontawesome",
+    "description": "Font Awesome assets for Yii2 projects",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," font-awesome"," html5"," fonts"," icons"," yii2-extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Derek Gifford",
+            "email": "derekisbusy@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "derekisbusy\\fa\\": ""
+        }
+    }
+}
