@@ -5,10 +5,10 @@ use yii\web\AssetBundle;
 
 class FontAwesomeAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/derekisbusy/yii2-fontawesome';
+    public $sourcePath = '@vendor/derekisbusy/yii2-fontawesome/src';
     
     public $css = [
-        YII_ENV_DEV ? 'css/font-awesome.css' : 'css/font-awesome.min.css',
+        YII_ENV_DEV ? 'css/fontawesome.css' : 'css/fontawesome.min.css',
     ];
     
     public $js = [
