@@ -50,5 +50,5 @@ Then use the icons in your HTML
 Documentation
 -------------
 
- * [Font Awesome docs](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
+ * [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
  * [Yii2 assets](https://www.yiiframework.com/doc/guide/2.0/en/structure-assets)
