@@ -8,7 +8,7 @@ class FontAwesomeAsset extends AssetBundle
     public $sourcePath = '@vendor/derekisbusy/yii2-fontawesome';
     
     public $css = [
-        YII_ENV_DEV ? 'ccss/font-awesome.css' : 'css/font-awesome.min.css',
+        YII_ENV_DEV ? 'css/font-awesome.css' : 'css/font-awesome.min.css',
     ];
     
     public $js = [
